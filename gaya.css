@@ -1,0 +1,123 @@
+.jumbotron {
+  padding: 20rem 1rem;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+
+.navbar.navbar-expand-lg.navbar-dark.bg-dark.fixed-top.p-3.navbar4bg{
+    background-color: #212429    !important;
+}
+
+.d-block.w-100.tahukahkamu{
+    filter: brightness(80%) !important;
+}
+
+.btn-default {
+    background-color: blue;
+    color: white;
+}
+.btn.btn-danger.delete:hover{
+    background-color: #ebebeb;
+    color: #333;
+    border-color: #adadad;
+}
+.card.mt-3{
+    border: 1px solid black;
+}
+
+nav .btn{
+    color: rgb(255, 255, 255);
+}
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:active    {
+    background-color: #ebebeb;
+    color: #333;
+    border-color: #adadad;
+}
+div .card .card-header{
+    background-color: orange!important;
+}
+
+.text-justify>a:hover{
+    color: darkorange !important;
+}
+
+.text-decoration-none.hover-orange:hover{
+    text-decoration: none !important;
+    color: darkorange !important;
+}
+
+.nav-item>a:hover{
+    color: rgba(236, 236, 236, 0.616) !important;
+}
+
+.nav-item>.nav-link.cari.active:hover{
+    text-decoration: none !important;
+    color: #4A4F55 !important;
+}
+.nav-item.nav-link.select{
+    text-decoration: none !important;
+    color: #4A4F55 !important;
+}
+.nav-link.px-2.text-muted.footerhoover:hover{
+    color: #cc6d00 !important;
+}
+.nav-link.px-2.text-white.atas:hover{
+    text-decoration: underline !important;
+}
+
+.c.form-login{
+    margin-top: 115px !important;
+}
+
+.py-4.footer-blog{
+    margin-top: 61px !important;
+}
+
+.nav-link.copyright{
+    color: #ebebeb !important;
+}
+
+.nav-link.copyright:hover{
+    color: #ebebeb !important;
+}
+
+.nav-link.px-2.text-muted.contact-about{
+    color: aliceblue !important;
+}
+.nav-link.px-2.text-muted.contact-about:hover{
+    color: rgb(180, 180, 180) !important;
+}
+.bg-dark.footer-category{
+    position: relative;
+    margin-top: 103px !important;
+}
+.bg-dark.footer-login{
+    position:sticky;
+    margin-top: 129px !important;
+}
+
+.btn-card-no-background{
+
+background: unset !important;
+border: unset !important;
+outline: unset !important;
+font-family:inherit;
+font-weight:500;
+
+color:inherit;
+font-size:1.25rem;
+}
+
+.komentar-notifikasi{
+    text-decoration: none !important;
+    color: #212429 !important;
+}
+
+.komentar-notifikasi:hover{
+    color: #cc6d00 !important;
+}
+.modal-dialog.custom{
+    max-width: 850px !important;
+}
