@@ -11,4 +11,6 @@ akicha              |       Password : 123 <br />
 yuki_kashiwagi      |       Password : 123 <br />
 
 ## Sosial Media
-<a href="https://twitter.com/thomiadityaa" target="_blank"></a>
+<a href="https://twitter.com/thomiadityaa" target="_blank">
+    <img alt="Twitter: thomiadityaa" src="https://img.shields.io/twitter/follow/thomiadityaa.svg?style=social" />
+  </a>
