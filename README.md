@@ -1,5 +1,5 @@
 # Website lezhealty 
-Project : Pemogramana Web
+Project: Pemogramana Web
 
 Description: Web Blog berisi Resep Makanan dan Minuman <br>
 
@@ -9,3 +9,6 @@ Terdapat tiga username, diantaranya : <br />
 shani_indira        |       Password : 123 <br />
 akicha              |       Password : 123 <br />
 yuki_kashiwagi      |       Password : 123 <br />
+
+## Sosial Media
+<a href="https://twitter.com/thomiadityaa" target="_blank"></a>
