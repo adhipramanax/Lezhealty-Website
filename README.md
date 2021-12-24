@@ -11,8 +11,6 @@ akicha              |       Password : 123 <br />
 yuki_kashiwagi      |       Password : 123 <br />
 
 ## Sosial Media
-Twiter : <a href="https://twitter.com/Panjiadhipraman">@Panjiadhipraman</a>
-
-Instagram : <a href="https://www.instagram.com/panji_adhipramana/?hl=id">@panji_adhipramana</a>
-
-GitHub : <a href="https://github.com/adhipramanax">AdhipramanaX</a>
+Twiter : <a href="https://twitter.com/Panjiadhipraman">@Panjiadhipraman</a><br>
+Instagram : <a href="https://www.instagram.com/panji_adhipramana/?hl=id">@panji_adhipramana</a><br>
+GitHub : <a href="https://github.com/adhipramanax">AdhipramanaX</a><br>
