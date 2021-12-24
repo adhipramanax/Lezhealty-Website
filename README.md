@@ -1,11 +1,9 @@
-# Food_and_Health
+# Website lezhealty 
+Project : Pemogramana Web 
+Description: Web Blog berisi Resep Makanan dan Minuman <br>
 
-Web Blog Resep Makanan dan Minuman
-
-Dikhususkan untuk : <br />
-Projek pembuatan website untuk mata kuliah pemrograman web <br />
-
-### User Login
+## User Manual
+User Login
 Terdapat tiga username, diantaranya : <br /><br />
 shani_indira        |       Password : 123 <br />
 akicha              |       Password : 123 <br />
